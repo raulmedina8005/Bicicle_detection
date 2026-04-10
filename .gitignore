@@ -1,0 +1,15 @@
+# Entornos virtuales
+.venv/
+bic_venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Videos y archivos pesados
+*.mp4
+*.avi
+
+# Librerías compiladas
+*.dll
+*.pyd
